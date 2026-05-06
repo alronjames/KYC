@@ -66,9 +66,9 @@ public class ApplicantPanel extends VBox {
     }
 
     private void prefillFromSso() {
-        name.setText("Alex Morgan");
-        birthday.setText("1993-08-14");
-        address.setText("42 Finance Avenue, Makati City");
+        name.setText("Raul Gwapo");
+        birthday.setText("01-01-2001");
+        address.setText("Cebu City");
         progressPanel.completeIdentityDetails();
     }
 
